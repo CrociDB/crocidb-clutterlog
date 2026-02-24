@@ -349,3 +349,11 @@ datetime = "2024-04-09T08:51:51"
 [[media]]
 name = "clone-stacking-written-in-fennel.jpg"
 datetime = "2024-04-13T08:52:47"
+
+[[media]]
+name = "clutterlog-naive-processing-vs-rayon-loop.png"
+datetime = "2026-02-24T09:50:07"
+
+[[media]]
+name = "clutterlog-example.webm"
+datetime = "2026-02-24T13:24:32"
