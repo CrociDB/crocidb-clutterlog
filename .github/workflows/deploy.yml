@@ -40,6 +40,9 @@ jobs:
           echo "tag=${LATEST_TAG}" >> $GITHUB_OUTPUT
           echo "Latest clutterlog release: ${LATEST_TAG}"
       
+      - name: Install ffmpeg
+        run: sudo apt-get install -y ffmpeg
+      
       - name: Install clutterlog
         run: |
           cargo install --git https://github.com/CrociDB/clutterlog --tag ${{ steps.get_version.outputs.tag }}
