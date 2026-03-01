@@ -1,0 +1,2 @@
+Multiplayer Tic-Tac-Toe written in C and Allegro
+it's a p2p winsock game. I still remember that night in 2007 that I couldn't sleep, so I decided to try and implement that on my own.

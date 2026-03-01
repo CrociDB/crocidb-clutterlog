@@ -1,0 +1,2 @@
+bulletty v0.2.2 released!
+this version contains a lot of improvements and bug fixes
