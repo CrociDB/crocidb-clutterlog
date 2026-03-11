@@ -1,0 +1,1 @@
+one of the first tries with a 3d engine for C++: Irrlicht. I created the map with Cartography Shop, generated the lightmap and was able to load it. 

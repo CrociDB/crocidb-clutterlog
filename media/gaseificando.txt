@@ -1,0 +1,2 @@
+Java Commercial System
+back in 2008, I started doing programming professional training. I had to implement a complete commercial system for registering products, suppliers, sales and orders. it was made with Java, Swing for UI and JDBC with Access for database. I remember having so much fun implementing all that because I thought that was very easy.

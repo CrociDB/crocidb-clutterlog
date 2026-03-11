@@ -1,0 +1,1 @@
+first time I tried to make a mobile game. way before smartphones, it was made in j2me.

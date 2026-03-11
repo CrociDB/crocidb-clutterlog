@@ -1,0 +1,1 @@
+back in 2018 I was studying shader programming and visual effects a lot, and this was an attempt to replicate the destroy effect from Fortnite.

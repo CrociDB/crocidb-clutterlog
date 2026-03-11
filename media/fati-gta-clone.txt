@@ -1,0 +1,1 @@
+at some point I started making this GTA2-style game. I was mega proud that I made a whole level editor for the tiles, and I remember the character could move and collide with walls. I guess I just didn't finish that because I didn't have access to internet on the weekdays and the ADHD was too strong to keep me motivated when I found issues.

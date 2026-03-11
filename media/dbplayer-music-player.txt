@@ -1,0 +1,1 @@
+i loved creating tools for my personal use. this music player, written in Visual Basic 6, was scanning all the music files in a folder, extracting their information and displaying in a list. then I could play the song I wanted.
